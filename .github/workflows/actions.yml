@@ -1,4 +1,4 @@
-name: Run Flask Application
+name: Run app.py
 
 on:
   push:
